@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157578587135",
+    "project_id": "trippo-7005b",
+    "storage_bucket": "trippo-7005b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157578587135:android:30c4a1e9fb6ceff1f415ca",
+        "android_client_info": {
+          "package_name": "com.example.uberclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9FNrw1h_rrAKYaPLUL7dmMHgwFrgOPqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
